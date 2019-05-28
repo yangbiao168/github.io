@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slideshow>
+	<photo image="images2/01.jpg" url="http://www.flashxml.net/image-gallery.html" target="_blank"  info="生产一课1"
+	details="生产一课1"	/>
+	<photo image="images2/02.jpg" url="http://www.flashxml.net/image-gallery.html" target="_blank"  info="生产一课2"
+	details="生产一课2"	/>
+	<photo image="images2/03.jpg" url="http://www.flashxml.net/image-gallery.html" target="_blank"  info="生产一课3"
+	details="生产一课3"	/>
+	<photo image="images2/04.jpg" url="http://www.flashxml.net/image-gallery.html" target="_blank"  info="生产一课4"
+	details="生产一课4"	/>
+	<photo image="images2/05.jpg" url="http://www.flashxml.net/image-gallery.html" target="_blank"  info="生产一课5"
+	details="生产一课5"	/>
+	<photo image="images2/06.jpg" url="http://www.flashxml.net/image-gallery.html" target="_blank"  info="生产一课6"
+	details="生产一课6"	/>
+	<photo image="images2/07.jpg" url="http://www.flashxml.net/image-gallery.html" target="_blank"  info="成品仓"
+	details="成品仓"	/>
+	<photo image="images2/08.jpg" url="http://www.flashxml.net/image-gallery.html" target="_blank"  info="存货仓"
+	details="存货仓"	/>
+	<photo image="images2/09.jpg" url="http://www.flashxml.net/image-gallery.html" target="_blank"  info="热处理炉"
+	details="热处理炉"	/>
+	<photo image="images2/10.jpg" url="http://www.flashxml.net/image-gallery.html" target="_blank"  info="投影仪"
+	details="投影仪"	/>
+	<photo image="images2/11.jpg" url="http://www.flashxml.net/image-gallery.html" target="_blank"  info="线材 （原材料）1"
+	details="线材 （原材料）1" />
+	<photo image="images2/12.jpg" url="http://www.flashxml.net/image-gallery.html" target="_blank"  info="线材 （原材料）2"
+	details="线材 （原材料）2"	/>
+</slideshow>
